@@ -18,7 +18,7 @@
     "expo": "~37.0.3",
     "expo-splash-screen": "^0.2.3",
     "expo-updates": "~0.2.0",
-    "firebase": "^7.15.0",
+    "firebase": "^10.9.0",
     "node-gyp-build": "^4.2.2",
     "react": "^16.9.0",
     "react-dom": "~16.9.0",
